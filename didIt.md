@@ -4,5 +4,7 @@
 - Arrangering af Secret Hitler spil med team
 - Opfølgning på incident
 - Refinement med Rancher - dyb sparring om måder at løse opgaver på (Azure cost/database/csv/excel til Sanela etc)
-- Planlægning af morgenmad og ændring af refinement og status møder
-- 
+- Planlægning af morgenmad og booking af lokaler
+- Ændring af refinement og status møder for Rancher
+- Incident håndtering
+- Planlægning af Retro
