@@ -3,5 +3,5 @@
 - Opfølgning på vagten
 - Arrangering af Secret Hitler spil med team
 - Opfølgning på incident
-- Refinement med Rancher - 
+- Refinement med Rancher - dyb sparring om måder at løse opgaver på (Azure cost/database/csv/excel til Sanela etc)
 - 
