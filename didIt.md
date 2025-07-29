@@ -1,3 +1,12 @@
+2025-07-29
+- rescoping af showback epic til at støtte alle teams i DevOps
+- follow up på DUPLA incident med mail til Ziggy
+- refinement med CLS
+
+2025-07-28
+- catch up fra ferie
+- Ops review metrics
+
 2025-07-17
 - PO/SM alignment
 - Morgenmad mm. 
