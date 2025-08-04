@@ -1,3 +1,22 @@
+2025-08-04
+- Follow up incident
+- Team metrics
+
+2025-08-02
+- Holder øje med chat mm. ang. incident
+
+2025-08-01
+- Major incident på netværk, alt nede
+
+2025-07-31
+- Refinement
+- Retro
+- Morgenmad
+
+2025-07-30
+- Prep retro
+- Oneview talks
+
 2025-07-29
 - rescoping af showback epic til at støtte alle teams i DevOps
 - follow up på DUPLA incident med mail til Ziggy
