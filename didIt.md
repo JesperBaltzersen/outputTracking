@@ -1,3 +1,7 @@
+2025-08-05
+- Arbejdsgældespillet
+- Design Personal Reflection Retro
+
 2025-08-04
 - Follow up incident
 - Team metrics
