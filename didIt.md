@@ -1,4 +1,9 @@
 2025-08-05
+- Morgenmad
+- Refinement
+- Retro
+
+2025-08-05
 - Arbejdsgældespillet
 - Design Personal Reflection Retro
 
