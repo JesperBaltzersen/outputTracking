@@ -1,7 +1,12 @@
-2025-08-05
+2025-08-08
+- Follow up security findings
+- Off early
+    
+2025-08-07
 - Morgenmad
 - Refinement
-- Retro
+- Retro Personal reflection
+- Alignment SoS on Ops. Review
 
 2025-08-05
 - Arbejdsgældespillet
