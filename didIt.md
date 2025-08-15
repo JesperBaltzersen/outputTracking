@@ -1,3 +1,24 @@
+2025-08-15
+- Klar til team Customer Excellence
+
+2025-08-14
+- Team skæring møde
+- Morgenmad
+- Mødes med Customer Excelence
+  
+2025-08-13
+- Plan retro Rancher
+- Eventyr
+- Ejendomme
+
+2025-08-12
+- Refinement CLS
+- Refinement Rancher
+
+2025-08-11
+- Koordinering om nye team med Rasmus
+- Eventyr
+
 2025-08-08
 - Follow up security findings
 - Off early
